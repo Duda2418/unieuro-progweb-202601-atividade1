@@ -7,3 +7,7 @@ Montar o site da globo.com utilizando tabelas e publicar no GitHub Pages.
 2) Monte o site da imagem do site da globo.com utilizando como estrutura a tag TABLE
 3) Publicar no GitHub Pages
 4) Responder a atividade no AVA
+
+
+
+*Professor, você nao alterou a data de entrega da atividade, o prazo acabou 11:00 da manhã, não estamos conseguindo enviar*
